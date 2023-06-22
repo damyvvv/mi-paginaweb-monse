@@ -1,0 +1,132 @@
+
+header{
+        max-width: 1800px;
+        margin: auto;
+        display: flex;
+        justify-content: space-between;
+        padding: 20px;
+        align-items: left;
+}
+
+nav ul{
+
+        display: flex;
+        list-style: none;
+        justify-content: space-between;
+}
+nav ul li{
+        padding: 0 10px;
+}
+
+
+nav ul li a{
+        text-decoration: none;
+        color: #000;
+        font-size:20px;
+}
+nav ul li a:hover{
+        text-decoration: underline;
+}
+
+
+.info{
+        background-color: #CC0000;
+        color: #fff;
+        padding: 10px 0;
+        text-align: center;
+font-size:18px;
+font-family:sans-serif;
+}
+
+body{
+	   width: 100%;
+    height: 40vh;
+        font-family: 'Merienda';
+        background: #FFFFFF;
+        background-size: cover;
+        background-attachment: fixed;
+        background-position: center top;
+}
+.title {
+   
+    font-size: 80px;
+   text-align: center;
+    text-transform: uppercase;
+    color: #CC0000;
+}
+.parrafo{
+     font-family: 'serif';
+    font-size: 40px;
+   text-align: center;
+    
+    color: #FFFFFF;
+}
+
+
+.historia{
+	text-align:left;
+	font-family:serif;
+	font-size:40px;
+}
+.dana{
+	text-align:left;
+	font-family:serif;
+	font-size:30px;
+
+}
+.principios{
+	text-align:left;
+	font-family:serif;
+	font-size:20px;
+
+
+   
+}
+.fondo{
+ background-color:#FFFFFF ;
+ background-position:center;
+ background-repeat:no-repeat;
+ background-size:cover;
+ background-attachment:fixed;
+}
+.COVID{
+    text-align: center;
+}
+#videocovid{
+    text-align: center;
+}
+
+   
+table { font-family: «Lucida Sans Unicode», «Lucida Grande», Sans-Serif;
+font-size: 18px; margin: 45px; width: 80px; text-align: left; border-collapse: collapse; }
+
+th { font-size: 18px; font-weight: normal; padding: 8px; background:#B2DAFA;
+border-top: 4px solid #aabcfe; border-bottom: 1px solid #fff; color: #039; }
+
+
+td { padding: 8px; background: #B2DAFA; border-bottom: 1px solid #fff;
+color: #669; border-top: 1px solid transparent; }
+s
+#videocovid{
+  width:100%;
+  height: auto;
+
+
+}
+.personajes{
+	text-align:center;
+}
+.hhh{
+	text-align:center;
+}
+
+.lolo{
+	font-family:serif;
+	font-size:20px;
+	text-align:center;
+
+}
+.redes a img{
+        width: 50px;
+        margin: 0 10px;
+}
